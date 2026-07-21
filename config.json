@@ -1,0 +1,12 @@
+{
+    "app_name": "ComicMotion AI",
+    "version": "1.0.0",
+    "workspace_root": "workspaces",
+    "database_filename": "comicmotion.db",
+    "supported_formats": ["pdf", "cbz", "cbr"],
+    "ui": {
+        "page_title": "ComicMotion AI",
+        "page_icon": "🎬",
+        "layout": "wide"
+    }
+}

@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs
+workspaces/
+
+# Downloaded AI models
+models/
+
+# VS Code settings (optional)
+.vscode/
